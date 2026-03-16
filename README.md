@@ -13,7 +13,7 @@ write some record
   - How to see the questions/answers?  
       > has 830 line datas all,it is put at ./data,but maybe its so big<br>
       > I take one line for demo,could see that it has so many materials <br>
-      > Its structure : [query\_id\ ,\ query\ ,\ answer\ ,\ gold\_docs\ :\ \{[docid,text,url],[...],[...],[...]\}]
+      > Its structure : [query\_id ,quer,answer,gold\_docs:\{[docid,text,url],[...],[...],[...]\}]
   - How to see the reference materials?
       > in the question structure,there is "gold_docs"
   - How to build an agent to use this dataset (through HuggingFace or other methods)?
