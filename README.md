@@ -20,5 +20,6 @@ write some record
       > I take some demos in \textbf{./data/corpus\_demo\_3.jsonl}
 
   - How to build an agent to use this dataset (through HuggingFace or other methods)?
+    > I think we could use the \textbf{BrowseComp-Plus/search\_agent} as example 
 
   
