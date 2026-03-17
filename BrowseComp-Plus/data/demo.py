@@ -13,8 +13,6 @@ def extract(input_file_path, output_file_path="demo.jsonl"):
                 break
             outfile.write(line)
 
-
-# 主程序入口
 if __name__ == "__main__":
     INPUT_JSONL_FILE = "browsecomp_plus_decrypted.jsonl"
     OUTPUT_DEMO_FILE = "demo.jsonl"
