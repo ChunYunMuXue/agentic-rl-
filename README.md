@@ -16,10 +16,10 @@ write some record
       > Its structure : [query\_id ,quer,answer,gold\_docs:\{[docid,text,url],[...],[...],[...]\}]
   - How to see the reference materials?
       > In the question structure, there is a field "gold\_docs", which is hidden from the agent and manually annotated<br>
-      > The agent is only provided with the query text and a large corpus, \textbf{Tevatron/browsecomp-plus-corpus.} <br>
-      > I take some demos in \textbf{./data/corpus\_demo\_3.jsonl}
+      > The agent is only provided with the query text and a large corpus, **Tevatron/browsecomp-plus-corpus** <br>
+      > I take some demos in **./data/corpus\_demo\_3.jsonl**
 
   - How to build an agent to use this dataset (through HuggingFace or other methods)?
-    > I think we could use the \textbf{BrowseComp-Plus/search\_agent} as example 
+    > I think we could use the **BrowseComp-Plus/search\_agent** as example 
 
   
