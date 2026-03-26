@@ -28,19 +28,22 @@ write some record
 
 
 What is the SOTA and main agentic designs used on this dataset?
-– Chen et al. (2026b) (retrieval design,with code) done
-– Kariyappa and Suh (2026) (KV cache,memory,no open) done
-– Chen et al. (2026a) (evaluation, no open) done
-– He et al. (2026) (evaluation, no open) waiting
+-  Chen et al. (2026b) (retrieval design,with code) done
+-  Kariyappa and Suh (2026) (KV cache,memory,no open) done
+-  Chen et al. (2026a) (evaluation, no open) done
+-  He et al. (2026) (evaluation, no open) waiting
 
 
 References
-Y. Chen, J. Jiang, J. Liu, Y. Zhang, X. Guo, and I. King. Trace: Trajectory-aware comprehensive
+- Y. Chen, J. Jiang, J. Liu, Y. Zhang, X. Guo, and I. King. Trace: Trajectory-aware comprehensive
 evaluation for deep research agents. arXiv preprint arXiv:2602.21230, 2026a.
-Z. Chen, X. Ma, S. Zhuang, J. Lin, A. Asai, and V. Zhong. Agentir: Reasoning-aware retrieval for
+
+- Z. Chen, X. Ma, S. Zhuang, J. Lin, A. Asai, and V. Zhong. Agentir: Reasoning-aware retrieval for
 deep research agents. arXiv preprint arXiv:2603.04384, 2026b.
-Z. He, Y. Wang, C. Zhi, Y. Hu, T.-P. Chen, L. Yin, Z. Chen, T. A. Wu, S. Ouyang, Z. Wang, et al.
+
+- Z. He, Y. Wang, C. Zhi, Y. Hu, T.-P. Chen, L. Yin, Z. Chen, T. A. Wu, S. Ouyang, Z. Wang, et al.
 Memoryarena: Benchmarking agent memory in interdependent multi-session agentic tasks. arXiv
 preprint arXiv:2602.16313, 2026.
-S. Kariyappa and G. E. Suh. Sidequest: Model-driven kv cache management for long-horizon agentic
+
+- S. Kariyappa and G. E. Suh. Sidequest: Model-driven kv cache management for long-horizon agentic
 reasoning. arXiv preprint arXiv:2602.22603, 2026
