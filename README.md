@@ -20,11 +20,12 @@ write some record
       > I take some demos in **./data/corpus\_demo\_3.jsonl**
 
   - How to build an agent to use this dataset (through HuggingFace or other methods)?
-        > I think we could use the BrowseComp-Plus/search_agent as example
-        > need llm agent + tool (retrieval,and using that as local network)
-        > waiting run code
-        > there are some demos in the github by tevatron.
-        > and have done one run with Qwen1.7B
+      > I think we could use the BrowseComp-Plus/search_agent as example<br>
+      > need llm agent + tool (retrieval,and using that as local network) <br>
+      > has done the running <br>
+      > there are some demos in the github by tevatron.
+      > and have done one run with Qwen1.7B
+
 
 What is the SOTA and main agentic designs used on this dataset?
 – Chen et al. (2026b) (retrieval design,with code) done
